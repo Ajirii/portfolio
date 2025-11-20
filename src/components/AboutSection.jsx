@@ -28,21 +28,16 @@ export const AboutSection = () => {
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
-              <a
-                href="https://www.linkedin.com/in/lpham00/"
-                target="_blank"
-                className="night-button"
-              >
+              <a href="#contact" className="night-button">
                 {" "}
                 Get In Touch
               </a>
 
               <a
-                href="https://github.com/Ajirii"
-                target="_blank"
+                href="#projects"
                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
               >
-                Check My Github
+                See My Projects
               </a>
             </div>
           </div>

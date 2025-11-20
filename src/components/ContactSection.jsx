@@ -39,24 +39,24 @@ export const ContactSection = () => {
 
         <p className="text-center text-muted-foreground mb-12 max-w-2xl mx-auto">
           I’m always open to discussing new opportunities or collaborations.
-          Feel free to reach out to me via email at{" "}
+          Feel free to reach out to me on{" "}
           <span
             href="#"
             className="text-muted-foreground text-primary transition-colors"
           >
-            lynnpham28714@gmail.com
+            LinkedIn!
           </span>
         </p>
 
-        {/* <div className="text-center mt-12">
+        <div className="text-center mt-12">
           <a
             className="night-button w-fit flex items-center mx-auto gap-2"
             target="_blank"
-            href="mailto:lynnpham28714@gmail.com"
+            href="https://www.linkedin.com/in/lpham00/"
           >
-            Send me an email! <ArrowRight size={16} />
+            Send me an message! <ArrowRight size={16} />
           </a>
-        </div> */}
+        </div>
 
         {/* <div className="grid grid-cols-1 md:grid-cols-2 gap-12"> */}
         {/* <div className="space-y-8">

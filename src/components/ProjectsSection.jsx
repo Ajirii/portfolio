@@ -53,8 +53,8 @@ export const ProjectsSection = () => {
         </h2>
 
         <p className="text-center text-muted-foreground mb-12 max-w-2xl mx-auto">
-          Here are some of my recent projects, each thoughtfully built with
-          attention to detail, performance, and user experience.
+          Here are some of my projects, each thoughtfully built with attention
+          to detail, performance, and user experience.
         </p>
 
         <div className="flex flex-col gap-8">
@@ -110,7 +110,7 @@ export const ProjectsSection = () => {
           ))}
         </div>
 
-        <div className="text-center mt-12">
+        {/* <div className="text-center mt-12">
           <a
             className="night-button w-fit flex items-center mx-auto gap-2"
             target="_blank"
@@ -118,7 +118,7 @@ export const ProjectsSection = () => {
           >
             Check My Github <ArrowRight size={16} />
           </a>
-        </div>
+        </div> */}
       </div>
     </section>
   );
