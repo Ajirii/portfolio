@@ -30,13 +30,13 @@ const skills = [
   { name: "Vite", category: "tools" },
   { name: "Supabase", category: "tools" },
   { name: "Vercel", category: "tools" },
-  { name: "Adobev Creative Cloud Apps", category: "tools" },
+  { name: "Adobe Creative Cloud Apps", category: "tools" },
   { name: "Microsoft Office Suite", category: "tools" },
   { name: "Blender", category: "tools" },
   { name: "Unreal Engine", category: "tools" },
 ];
 
-const categories = ["all", "langauges", "frameworks/libraries", "tools"];
+const categories = ["all", "languages", "frameworks/libraries", "tools"];
 
 export const SkillsSection = () => {
   const [activeCategory, setActiveCategory] = useState("all");
