@@ -7,7 +7,7 @@ export const HeroSection = () => {
       id="hero"
       className="relative min-h-screen flex flex-co items-center justify-center px-4"
     >
-      <div className="container -mt-8 max-w-4xl mx-auto text-center z-10">
+      <div className="container -mt-20 max-w-4xl mx-auto text-center z-10">
         <div className="flex justify-end">
           <ThemeToggle />
         </div>
