@@ -3,12 +3,12 @@ import { cn } from "@/lib/utils";
 
 const skills = [
   // Frontend
-  { name: "SQL", category: "langauges" },
-  { name: "Python", category: "langauges" },
-  { name: "JavaScript", category: "langauges" },
-  { name: "TypeScript", category: "langauges" },
-  { name: "Java", category: "langauges" },
-  { name: "HTML/CSS", category: "langauges" },
+  { name: "SQL", category: "languages" },
+  { name: "Python", category: "languages" },
+  { name: "JavaScript", category: "languages" },
+  { name: "TypeScript", category: "languages" },
+  { name: "Java", category: "languages" },
+  { name: "HTML/CSS", category: "languages" },
 
   // Backend
   { name: "Tailwind CSS", category: "frameworks/libraries" },
