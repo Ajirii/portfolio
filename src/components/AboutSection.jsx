@@ -17,7 +17,7 @@ export const AboutSection = () => {
 
             <p className="text-muted-foreground">
               I'm a Software Engineering and IT student who enjoys creating
-              clean, user-friendly web applications. Most of my experience comes
+              clean, user-friendly applications. Most of my experience comes
               from personal and academic projects where I've worked across both
               frontend and backend.
             </p>
